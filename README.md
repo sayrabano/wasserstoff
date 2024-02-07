@@ -6,7 +6,7 @@ Project Title  'wasserstoff'
 • Install Dependencies: npm install
 
 # go live
-https://65c30de325eaba35bee95f70--voluble-horse-28e608.netlify.app/overview
+https://65c30de325eaba35bee95f70--voluble-horse-28e608.netlify.app/
 
 
 
